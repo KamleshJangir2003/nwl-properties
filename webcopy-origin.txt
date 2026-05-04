@@ -1,0 +1,884 @@
+Uri: https://demo.themeim.com/html/palace/about.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\about.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/assets/css/animate.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/bootstrap.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/custom-animate.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\custom-animate.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/flaticon_palace-icons.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\flaticon_palace-icons.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/font-awesome.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/footer.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\footer.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/global.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\global.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/header.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\header.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/jquery-ui.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/jquery.bootstrap-touchspin.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\jquery.bootstrap-touchspin.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/magnific-popup.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/odometer-theme-default.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\odometer-theme-default.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/responsive.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/style.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\style.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/css/swiper.min.css
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/flaticon_palace-icons.eot
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\flaticon_palace-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/flaticon_palace-icons.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\flaticon_palace-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/flaticon_palace-icons.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\flaticon_palace-icons.ttf
+Content Type: font/ttf
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/flaticon_palace-icons.woff
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\flaticon_palace-icons.woff
+Content Type: font/woff
+
+Uri: https://demo.themeim.com/html/palace/assets/fonts/flaticon_palace-icons.woff2
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\fonts\flaticon_palace-icons.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/company.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\company.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/footer-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\footer-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/pattern-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\pattern-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/pattern-3.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\pattern-3.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/background/subscribe.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\background\subscribe.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/clients/1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\clients\1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/clients/2.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\clients\2.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/clients/3.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\clients\3.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/clients/4.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\clients\4.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/clients/5.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\clients\5.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/cross-out.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\cross-out.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/favicon.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/footer-logo.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-2.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-2.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-3.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-3.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-4.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-4.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-5.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-5.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/gallery/gallery-6.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\gallery\gallery-6.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/app-store.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\app-store.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/arrow-down.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\arrow-down.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/arrow.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/arrow.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/bath.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\bath.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/bed.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\bed.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/calendar.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/chat-1.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\chat-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/chat.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\chat.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/cloud-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\cloud-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/cloud.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\cloud.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/comment.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\comment.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/email.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\email.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/envelope.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\envelope.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/heart.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/map.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\map.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/next-arrow.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\next-arrow.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/phone-1.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\phone-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/phone.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/play-store.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\play-store.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/prev-arrow.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\prev-arrow.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/quote-1.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\quote-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/quote.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/right-arrow.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\right-arrow.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/search-light.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\search-light.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/search.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\search.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/square.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\square.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/user-1.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\user-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/icons/user.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\icons\user.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/logo-2.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/logo.svg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/cloud.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\cloud.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/image-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\image-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/pattern-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\pattern-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/main-slider/shape.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\main-slider\shape.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/app.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\app.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-10.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-10.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-11.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-11.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-4.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-4.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-5.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-5.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-6.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-6.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-7.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-7.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-8.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-8.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/author-9.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\author-9.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/city-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\city-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/city-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\city-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/city-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\city-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/city-4.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\city-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/contact.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\contact.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/faq.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\faq.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-10.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-11.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-11.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-12.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-12.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-13.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-13.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-4.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-5.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-6.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-7.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-8.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/news-9.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\news-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-4.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-5.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/post-thumb-6.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\post-thumb-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-4.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-5.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-6.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-8.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/property-9.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\property-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/services-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\services-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/services-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\services-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/services.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\services.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/sketch.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\sketch.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/story-1.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\story-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/story-2.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\story-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/story-3.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\story-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/story-4.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\story-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/story-5.jpg
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\story-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-2.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-2.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-3.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-3.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-4.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-4.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-5.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-5.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-6.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-6.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-7.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-7.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-8.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-8.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/team-9.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\team-9.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/images/resource/testimonial-1.png
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\images\resource\testimonial-1.png
+Content Type: image/png
+
+Uri: https://demo.themeim.com/html/palace/assets/js/appear.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\appear.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/backtotop.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\backtotop.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/bootstrap.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/element-in-view.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\element-in-view.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/gsap.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/jquery-ui.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\jquery-ui.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/jquery.countdown.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\jquery.countdown.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/jquery.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\jquery.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/jquery.meanmenu.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\jquery.meanmenu.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/jquery.paroller.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\jquery.paroller.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/knob.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\knob.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/magnific-popup.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/nav-tool.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\nav-tool.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/odometer.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\odometer.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/parallax-scroll.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\parallax-scroll.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/parallax.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\parallax.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/popper.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/script.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\script.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/ScrollSmoother.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\ScrollSmoother.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/ScrollToPlugin.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\ScrollToPlugin.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/ScrollTrigger.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/SplitText.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\SplitText.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/swiper.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/tilt.jquery.min.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\tilt.jquery.min.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/validate.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\validate.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/assets/js/wow.js
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://demo.themeim.com/html/palace/blog-classic.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\blog-classic.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/blog-detail.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\blog-detail.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/blog-sidebar.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/blog.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\blog.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/contact.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\contact.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/faq.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\faq.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/index-2.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\index-2.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/index-3.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\index-3.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/index.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\index.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/not-found.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\not-found.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/property-detail.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\property-detail.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/property.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\property.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/service-detail.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\service-detail.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/services.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\services.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/team-detail.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\team-detail.html
+Content Type: text/html
+
+Uri: https://demo.themeim.com/html/palace/team.html
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\html\palace\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Dh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\plusjakartasans\v12\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDh_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
+File Name: C:\Users\Admin\Downloads\nwl-properties\demo.themeim.com\beacon.min.js\v8c78df7c7c0f484497ecbca7046644da1771523124516
+Content Type: text/javascript
+
