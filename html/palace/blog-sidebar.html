@@ -49,7 +49,7 @@
 							
 						<!-- Logo Box -->
 						<div class="logo-box">
-							<div class="logo"><a href="index.html"><img src="assets/images/logo.svg" alt="" title=""></a></div>
+							<div class="logo"><a href="index-2.html"><img src="assets/images/logo.svg" alt="" title=""></a></div>
 						</div>
 						<!-- End Logo Box -->
 						
@@ -68,52 +68,17 @@
 								
 								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class="dropdown"><a href="#">Home</a>
-											<ul>
-												<li><a href="index.html">Homepage 01</a></li>
-												<li><a href="index-2.html">Homepage 02</a></li>
-												<li><a href="index-3.html">Homepage 03</a></li>
-												<li class="dropdown"><a href="#">Header Styles</a>
-													<ul>
-														<li><a href="index.html">Header 01</a></li>
-														<li><a href="index-2.html">Header 02</a></li>
-														<li><a href="index-3.html">Header 03</a></li>
-													</ul>
-												</li>
-											</ul>
+									<li><a href="index-2.html">Home</a>
+											
 										</li>
-										<li class="dropdown"><a href="#">About</a>
-											<ul>
-												<li><a href="about.html">About us</a></li>
-												<li><a href="faq.html">Faq</a></li>
-												<li class="dropdown"><a href="#">Our Team</a>
-													<ul>
-														<li><a href="team.html">Team</a></li>
-														<li><a href="team-detail.html">Team Detail</a></li>
-													</ul>
-												</li>
-											</ul>
+										<li><a href="about.html">About</a>
 										</li>
-										<li class="dropdown"><a href="#">services</a>
-											<ul>
-												<li><a href="services.html">services</a></li>
-												<li><a href="service-detail.html">services detail</a></li>
-											</ul>
+										<li><a href="services.html">services</a>
 										</li>
-										<li class="dropdown"><a href="#">property</a>
-											<ul>
-												<li><a href="property.html">property</a></li>
-												<li><a href="property-detail.html">property detail</a></li>
-											</ul>
-										</li>
-										<li class="dropdown"><a href="#">Blog</a>
-											<ul>
-												<li><a href="blog.html">Blog</a></li>
-												<li><a href="blog-classic.html">Blog Classic</a></li>
-												<li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-												<li><a href="blog-detail.html">Blog Detail</a></li>
-												<li><a href="not-found.html">Not Found</a></li>
-											</ul>
+										<li><a href="property.html">property</a>
+											</li>
+										<li><a href="team-detail.html">Team</a>
+											
 										</li>
 										<li><a href="contact.html">Contact</a></li>
 									</ul>
@@ -517,116 +482,140 @@
 	
 	<!-- Search Popup -->
 	<div class="search-popup">
-		<div class="color-layer"></div>
-		<button class="close-search"><span class="flaticon-close"></span></button>
-		<form method="post" action="blog.html">
-			<div class="form-group">
-				<input type="search" name="search-field" value="" placeholder="Search Here" required="">
-				<button class="fa fa-solid fa-magnifying-glass fa-fw" type="submit"></button>
-			</div>
-		</form>
-	</div>
+    <div class="color-layer"></div>
+
+    <button class="close-search">
+        <span class="fa-solid fa-xmark"></span>
+    </button>
+
+    <form method="get" action="properties.html">
+
+        <div class="form-group">
+
+            <input type="search" name="search" 
+                   placeholder="Search property (plot, house, rent...)" required>
+
+            <button class="fa fa-magnifying-glass" type="submit"></button>
+
+        </div>
+
+        <!-- Extra Filters -->
+        <div style="margin-top:15px; display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+
+            <select name="type" style="padding:8px;">
+                <option value="">Property Type</option>
+                <option>Plot</option>
+                <option>House</option>
+                <option>Commercial</option>
+            </select>
+
+            <select name="price" style="padding:8px;">
+                <option value="">Budget</option>
+                <option>Below 10 Lakh</option>
+                <option>10 - 25 Lakh</option>
+                <option>25 - 50 Lakh</option>
+                <option>Above 50 Lakh</option>
+            </select>
+
+        </div>
+
+    </form>
+</div>
 	<!-- End Search Popup -->
 	
 	<!-- Sidebar Cart Item -->
 	<div class="xs-sidebar-group info-group">
-		<div class="xs-overlay xs-bg-black"></div>
-		<div class="xs-sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="close-button">
-					<span class="fa-solid fa-xmark fa-fw"></span>
-				</div>
-				<div class="sidebar-textwidget">
-					
-					<!-- Sidebar Info Content -->
-					<div class="sidebar-info-contents">
-						<div class="content-inner">
-						
-							<!-- Title Box -->
-							<div class="title-box">
-								<h5>Explore Featured <span>Properties</span></h5>
-								<div class="price">$500,000 from free economy shipping</div>
-							</div>
-							
-							<!-- Empty Cart Box -->
-							<div class="empty-cart-box">
-								<!-- No Product -->
-								<div class="no-cart">
-									<span class="icon fa-solid fa-cart-flatbed-suitcase fa-fw"></span>
-									No products in cart.
-								</div>
-							</div>
-							
-							<!-- Lower Box -->
-							<div class="lower-box">
-								<h5>Popular <span>Suggestions</span></h5>
-									
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="assets/images/resource/post-thumb-1.jpg" alt="">
-										</div>
-										<h6><a href="#">Dreams Villa</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$225,000</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="assets/images/resource/post-thumb-2.jpg" alt="">
-										</div>
-										<h6><a href="#">Small Flats</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$350,000</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-								<!-- Post Block -->
-								<div class="post-block">
-									<div class="inner-box">
-										<div class="image">
-											<img src="assets/images/resource/post-thumb-3.jpg" alt="">
-										</div>
-										<h6><a href="#">House luxury</a></h6>
-										<div class="rating">
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-											<span class="fa fa-star"></span>
-										</div>
-										<div class="price-box">$150,000</div>
-										<a class="theme-btn bag-btn" href="#">add to bag</a>
-									</div>
-								</div>
-								
-							</div>
-							
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
+    <div class="xs-overlay xs-bg-black"></div>
+
+    <div class="xs-sidebar-widget">
+        <div class="sidebar-widget-container">
+
+            <!-- Close -->
+           <div class="close-button" id="sidebarClose">
+    <span class="fa-solid fa-xmark"></span>
+</div>
+
+            <div class="sidebar-textwidget">
+                <div class="sidebar-info-contents">
+                    <div class="content-inner">
+
+                        <!-- Title -->
+                        <div class="title-box">
+                            <h5>Find Your Dream <span>Property</span></h5>
+                            <div class="price">Nawalgarh & Nearby Areas</div>
+                        </div>
+
+                        <!-- Quick Contact -->
+                        <div style="margin-top:20px; text-align:center;">
+
+                            <a href="tel:+919999999999"
+                               style="display:block;background:#ff6b00;color:#fff;padding:10px;border-radius:5px;margin-bottom:10px;text-decoration:none;">
+                               📞 Call Now
+                            </a>
+
+                            <a href="https://wa.me/919999999999"
+                               style="display:block;background:#25D366;color:#fff;padding:10px;border-radius:5px;text-decoration:none;">
+                               💬 WhatsApp
+                            </a>
+
+                        </div>
+
+                        <!-- Popular Properties -->
+                        <div class="lower-box">
+                            <h5>Popular <span>Properties</span></h5>
+
+                            <!-- Property 1 -->
+                            <div class="post-block">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/images/resource/property-1.jpg" alt="">
+                                    </div>
+                                    <h6><a href="#">Residential Plot</a></h6>
+                                    <div class="price-box">₹15 Lakh</div>
+                                    <a class="theme-btn bag-btn" href="https://wa.me/919999999999">
+                                        Contact
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Property 2 -->
+                            <div class="post-block">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/images/resource/property-2.jpg" alt="">
+                                    </div>
+                                    <h6><a href="#">2BHK House</a></h6>
+                                    <div class="price-box">₹35 Lakh</div>
+                                    <a class="theme-btn bag-btn" href="https://wa.me/919999999999">
+                                        Contact
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Property 3 -->
+                            <div class="post-block">
+                                <div class="inner-box">
+                                    <div class="image">
+                                        <img src="assets/images/resource/property-3.jpg" alt="">
+                                    </div>
+                                    <h6><a href="#">Commercial Shop</a></h6>
+                                    <div class="price-box">₹25 Lakh</div>
+                                    <a class="theme-btn bag-btn" href="https://wa.me/919999999999">
+                                        Contact
+                                    </a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+	
 	
 </div>
 <!-- End PageWrapper -->
