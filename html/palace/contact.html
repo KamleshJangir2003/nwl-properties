@@ -236,7 +236,9 @@
                     <h3>Send Your Requirement</h3>
 
                     <div class="default-form contact-form">
-                        <form method="post" action="#">
+                        <form method="post" action="https://api.web3forms.com/submit" id="contactForm">
+                            <input type="hidden" name="access_key" value="29c1a131-4c5f-4279-8068-b84645decad0">
+                            <input type="hidden" name="subject" value="New Property Inquiry - Nawalgarh Properties">
 
                             <div class="row clearfix">
 
@@ -272,10 +274,50 @@
                                     </button>
                                 </div>
 
+                                <div id="formSuccess" style="display:none; background:#d4edda; color:#155724; border:1px solid #c3e6cb; border-radius:8px; padding:15px 20px; margin-top:15px; font-size:15px; font-weight:600;">
+                                    ✅ Aapki inquiry submit ho gayi! Hum jald hi contact karenge.
+                                </div>
+                                <div id="formError" style="display:none; color:red; margin-top:10px;">
+                                    ❌ Kuch galat hua. Please dobara try karein.
+                                </div>
+
                             </div>
 
                         </form>
                     </div>
+
+                    <script>
+                    document.getElementById('contactForm').addEventListener('submit', async function(e) {
+                        e.preventDefault();
+                        const btn = this.querySelector('button[type=submit]');
+                        btn.disabled = true;
+                        btn.textContent = 'Sending...';
+                        const formData = new FormData(this);
+                        const object = {};
+                        formData.forEach((val, key) => { if(key !== 'botcheck') object[key] = val; });
+                        try {
+                            const res = await fetch('https://api.web3forms.com/submit', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+                                body: JSON.stringify(object)
+                            });
+                            const data = await res.json();
+                            if (data.success) {
+                                document.getElementById('formSuccess').style.display = 'block';
+                                document.getElementById('formError').style.display = 'none';
+                                this.reset();
+                            } else {
+                                document.getElementById('formError').innerText = '❌ ' + (data.message || 'Kuch galat hua. Please dobara try karein.');
+                                document.getElementById('formError').style.display = 'block';
+                            }
+                        } catch(err) {
+                            document.getElementById('formError').innerText = '❌ Network error. Please internet check karein.';
+                            document.getElementById('formError').style.display = 'block';
+                        }
+                        btn.disabled = false;
+                        btn.textContent = 'Submit Inquiry';
+                    });
+                    </script>
 
                 </div>
             </div>
