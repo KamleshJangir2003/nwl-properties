@@ -56,6 +56,14 @@
 			$('.xs-sidebar-group.info-group').removeClass('isActive');
 		});
 
+		$('.navSidebar-button').on('click', function(e) {
+			$('.xs-sidebar-group.info-group').addClass('isActive');
+		});
+
+		$('.xs-overlay').on('click', function(e) {
+			$('.xs-sidebar-group.info-group').removeClass('isActive');
+		});
+
 		$('.about-widget').on('click', function(e) {
 			$('.about-sidebar').addClass('active');
 		});
