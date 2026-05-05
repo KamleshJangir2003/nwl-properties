@@ -6,6 +6,8 @@
 
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
+<link href="assets/css/font-awesome.css" rel="stylesheet">
+<link href="assets/css/flaticon_palace-icons.css" rel="stylesheet">
 <link href="assets/css/style.css" rel="stylesheet">
 <link href="assets/css/responsive.css" rel="stylesheet">
 
@@ -170,26 +172,79 @@
 </section>
     <!-- End Page Title -->
 	
-	<!-- Property One -->
-	<section class="property-three">
+	<!-- Property Section -->
+	<section class="property-three" style="padding:60px 0;">
     <div class="auto-container">
-        <div class="row clearfix">
-            
-            <!-- PROPERTY 1 -->
-            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12">
+
+        <!-- Section Title -->
+        <div class="sec-title centered" style="margin-bottom:30px;">
+            <div class="sec-title_title">Our Listings</div>
+            <h2 class="sec-title_heading">Properties in Nawalgarh</h2>
+            <div class="sec-title_text">Verified plots, houses, commercial shops & agricultural land at best prices</div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div style="background:#f8f8f8; padding:25px 30px; border-radius:10px; margin-bottom:40px;">
+            <div class="row clearfix">
+                <div class="col-lg-3 col-md-6 col-sm-12 form-group">
+                    <label style="font-weight:600; margin-bottom:6px; display:block;">Property Type</label>
+                    <select id="filter-type" onchange="filterProperties()" style="width:100%; padding:11px 14px; border:1px solid #ddd; border-radius:6px; font-size:14px;">
+                        <option value="">All Types</option>
+                        <option value="plot">Residential Plot</option>
+                        <option value="house">House / Villa</option>
+                        <option value="commercial">Commercial Shop</option>
+                        <option value="land">Agricultural Land</option>
+                    </select>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 form-group">
+                    <label style="font-weight:600; margin-bottom:6px; display:block;">Location</label>
+                    <select id="filter-location" onchange="filterProperties()" style="width:100%; padding:11px 14px; border:1px solid #ddd; border-radius:6px; font-size:14px;">
+                        <option value="">All Areas</option>
+                        <option value="nawalgarh">Nawalgarh</option>
+                        <option value="jhunjhunu">Jhunjhunu</option>
+                        <option value="sikar">Sikar</option>
+                        <option value="jaipur">Jaipur</option>
+                    </select>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 form-group">
+                    <label style="font-weight:600; margin-bottom:6px; display:block;">Budget</label>
+                    <select id="filter-budget" onchange="filterProperties()" style="width:100%; padding:11px 14px; border:1px solid #ddd; border-radius:6px; font-size:14px;">
+                        <option value="">Any Budget</option>
+                        <option value="0-1000000">Below ₹10 Lakh</option>
+                        <option value="1000000-2500000">₹10 – ₹25 Lakh</option>
+                        <option value="2500000-5000000">₹25 – ₹50 Lakh</option>
+                        <option value="5000000-99999999">Above ₹50 Lakh</option>
+                    </select>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12 form-group" style="display:flex; align-items:flex-end;">
+                    <button onclick="resetFilter()" style="width:100%; padding:11px; background:#eee; border:none; border-radius:6px; font-size:14px; cursor:pointer;">Reset Filter</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- No Results Message -->
+        <div id="no-results" style="display:none; text-align:center; padding:40px; color:#888; font-size:16px;">
+            No properties found matching your criteria.
+        </div>
+
+        <!-- Properties Grid -->
+        <div class="row clearfix" id="properties-grid">
+
+            <!-- PROPERTY 1: Residential Plot -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="plot" data-location="nawalgarh" data-price="1800000"
+                 data-title="Residential Plot 30×40 ft" data-img="assets/images/resource/property-1.jpg"
+                 data-loc-full="Near Mahamaya Mandir, Nawalgarh" data-badge="Residential Plot" data-area="1200 sqft"
+                 data-features="Road Facing|Water Available|Prime Location|Clear Title|Registry Done"
+                 data-desc="Prime residential plot located near Mahamaya Mandir, Nawalgarh. Ideal for building your dream home. All utilities available. Immediate possession.">
                 <div class="property-block_one-inner">
                     <div class="property-block_one-image">
                         <div class="property-block_one-title">Featured</div>
-                        <a href="#"><img src="assets/images/resource/property-1.jpg" alt=""></a>
+                        <span style="position:absolute;top:15px;left:15px;background:#ff6b00;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Residential Plot</span>
+                        <a href="#"><img src="assets/images/resource/property-1.jpg" alt="Residential Plot Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
                     </div>
                     <div class="property-block_one-content">
-                        <div class="property-block_one-location">
-                            <i class="flaticon-maps-and-flags"></i>
-                            Near Mahamaya Mandir, Nawalgarh
-                        </div>
-                        <h4 class="property-block_one-heading">
-                            <a href="#">Residential Plot 30x40 ft</a>
-                        </h4>
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Near Mahamaya Mandir, Nawalgarh</div>
+                        <h4 class="property-block_one-heading"><a href="#">Residential Plot 30×40 ft</a></h4>
                         <ul class="property-block_one-info">
                             <li>Road Facing</li>
                             <li>Water Available</li>
@@ -203,21 +258,17 @@
                 </div>
             </div>
 
-            <!-- PROPERTY 2 -->
-            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12">
+            <!-- PROPERTY 2: 2BHK House -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="house" data-location="nawalgarh" data-price="3500000">
                 <div class="property-block_one-inner">
                     <div class="property-block_one-image">
                         <div class="property-block_one-title">Hot Deal</div>
-                        <a href="#"><img src="assets/images/resource/property-2.jpg" alt=""></a>
+                        <span style="position:absolute;top:15px;left:15px;background:#2196F3;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">House / Villa</span>
+                        <a href="#"><img src="assets/images/resource/property-2.jpg" alt="2BHK House Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
                     </div>
                     <div class="property-block_one-content">
-                        <div class="property-block_one-location">
-                            <i class="flaticon-maps-and-flags"></i>
-                            Nawalgarh Market Area
-                        </div>
-                        <h4 class="property-block_one-heading">
-                            <a href="#">2BHK House for Sale</a>
-                        </h4>
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Nawalgarh Market Area</div>
+                        <h4 class="property-block_one-heading"><a href="#">2BHK House for Sale</a></h4>
                         <ul class="property-block_one-info">
                             <li>2 Bedrooms</li>
                             <li>2 Bathrooms</li>
@@ -231,21 +282,17 @@
                 </div>
             </div>
 
-            <!-- PROPERTY 3 -->
-            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12">
+            <!-- PROPERTY 3: Commercial Shop -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="commercial" data-location="nawalgarh" data-price="1200000">
                 <div class="property-block_one-inner">
                     <div class="property-block_one-image">
                         <div class="property-block_one-title">Best Deal</div>
-                        <a href="#"><img src="assets/images/resource/property-3.jpg" alt=""></a>
+                        <span style="position:absolute;top:15px;left:15px;background:#4CAF50;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Commercial Shop</span>
+                        <a href="#"><img src="assets/images/resource/property-3.jpg" alt="Commercial Shop Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
                     </div>
                     <div class="property-block_one-content">
-                        <div class="property-block_one-location">
-                            <i class="flaticon-maps-and-flags"></i>
-                            Near Bhavani Market, Nawalgarh
-                        </div>
-                        <h4 class="property-block_one-heading">
-                            <a href="#">Commercial Shop for Sale</a>
-                        </h4>
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Near Bhavani Market, Nawalgarh</div>
+                        <h4 class="property-block_one-heading"><a href="#">Commercial Shop for Sale</a></h4>
                         <ul class="property-block_one-info">
                             <li>High Footfall</li>
                             <li>Main Road</li>
@@ -259,17 +306,354 @@
                 </div>
             </div>
 
-        </div>
+            <!-- PROPERTY 4: Agricultural Land -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="land" data-location="jhunjhunu" data-price="800000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">New</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#8BC34A;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Agricultural Land</span>
+                        <a href="#"><img src="assets/images/resource/property-4.jpg" alt="Agricultural Land Jhunjhunu" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Village Road, Jhunjhunu</div>
+                        <h4 class="property-block_one-heading"><a href="#">Agricultural Land 2 Bigha</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Fertile Soil</li>
+                            <li>Water Source</li>
+                            <li>Road Access</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹8,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-        <!-- Pagination -->
-        <ul class="styled-pagination text-center">
-            <li><a href="#" class="active">1</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-        </ul>
+            <!-- PROPERTY 5: 3BHK Villa -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="house" data-location="sikar" data-price="6500000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Premium</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#2196F3;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">House / Villa</span>
+                        <a href="#"><img src="assets/images/resource/property-5.jpg" alt="3BHK Villa Sikar" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Sikar Road, Sikar</div>
+                        <h4 class="property-block_one-heading"><a href="#">3BHK Villa with Garden</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>3 Bedrooms</li>
+                            <li>Modular Kitchen</li>
+                            <li>Garden</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹65,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 6: Residential Plot Jaipur -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="plot" data-location="jaipur" data-price="2200000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Urgent Sale</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#ff6b00;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Residential Plot</span>
+                        <a href="#"><img src="assets/images/resource/property-6.jpg" alt="Residential Plot Jaipur" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Jaipur Highway, Jaipur</div>
+                        <h4 class="property-block_one-heading"><a href="#">Residential Plot 40×60 ft</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Corner Plot</li>
+                            <li>Near School</li>
+                            <li>Electricity</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹22,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 7: Below ₹10 Lakh – Small Plot Nawalgarh -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="plot" data-location="nawalgarh" data-price="650000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Budget Deal</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#ff6b00;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Residential Plot</span>
+                        <a href="#"><img src="assets/images/resource/property-8.jpg" alt="Small Plot Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Subhash Nagar, Nawalgarh</div>
+                        <h4 class="property-block_one-heading"><a href="#">Small Plot 20×30 ft</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Gali Facing</li>
+                            <li>Near Market</li>
+                            <li>Clear Title</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹6,50,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 8: Below ₹10 Lakh – Agricultural Land Sikar -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="land" data-location="sikar" data-price="900000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">New</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#8BC34A;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Agricultural Land</span>
+                        <a href="#"><img src="assets/images/resource/property-9.jpg" alt="Agricultural Land Sikar" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Gram Panchayat Road, Sikar</div>
+                        <h4 class="property-block_one-heading"><a href="#">Agricultural Land 1 Bigha</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Tube Well</li>
+                            <li>Kachha Road</li>
+                            <li>Govt. Record Clear</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹9,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 9: ₹10–25 Lakh – 1BHK House Nawalgarh -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="house" data-location="nawalgarh" data-price="1500000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Good Deal</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#2196F3;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">House / Villa</span>
+                        <a href="#"><img src="assets/images/resource/property-1.jpg" alt="1BHK House Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Gandhi Colony, Nawalgarh</div>
+                        <h4 class="property-block_one-heading"><a href="#">1BHK House for Sale</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>1 Bedroom</li>
+                            <li>1 Bathroom</li>
+                            <li>Ground Floor</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹15,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 10: ₹10–25 Lakh – Commercial Shop Jhunjhunu -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="commercial" data-location="jhunjhunu" data-price="2000000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Hot Deal</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#4CAF50;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Commercial Shop</span>
+                        <a href="#"><img src="assets/images/resource/property-2.jpg" alt="Commercial Shop Jhunjhunu" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Main Bazar, Jhunjhunu</div>
+                        <h4 class="property-block_one-heading"><a href="#">Commercial Shop 200 sqft</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Ground Floor</li>
+                            <li>Busy Market</li>
+                            <li>Immediate Possession</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹20,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 11: ₹25–50 Lakh – 2BHK House Jhunjhunu -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="house" data-location="jhunjhunu" data-price="3200000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Featured</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#2196F3;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">House / Villa</span>
+                        <a href="#"><img src="assets/images/resource/property-3.jpg" alt="2BHK House Jhunjhunu" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Nehru Nagar, Jhunjhunu</div>
+                        <h4 class="property-block_one-heading"><a href="#">2BHK House with Terrace</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>2 Bedrooms</li>
+                            <li>Open Terrace</li>
+                            <li>Parking</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹32,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 12: ₹25–50 Lakh – Residential Plot Sikar -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="plot" data-location="sikar" data-price="4500000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Best Deal</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#ff6b00;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Residential Plot</span>
+                        <a href="#"><img src="assets/images/resource/property-4.jpg" alt="Residential Plot Sikar" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Shastri Nagar, Sikar</div>
+                        <h4 class="property-block_one-heading"><a href="#">Residential Plot 50×80 ft</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Wide Road</li>
+                            <li>Near Hospital</li>
+                            <li>Registry Done</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹45,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 13: ₹25–50 Lakh – Agricultural Land Nawalgarh -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="land" data-location="nawalgarh" data-price="2800000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">New Listing</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#8BC34A;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Agricultural Land</span>
+                        <a href="#"><img src="assets/images/resource/property-5.jpg" alt="Agricultural Land Nawalgarh" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Khetri Road, Nawalgarh</div>
+                        <h4 class="property-block_one-heading"><a href="#">Agricultural Land 5 Bigha</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Canal Irrigation</li>
+                            <li>Pucca Road</li>
+                            <li>Electricity</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹28,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 14: Above ₹50 Lakh – 4BHK Bungalow Jaipur -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="house" data-location="jaipur" data-price="9500000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Luxury</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#2196F3;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">House / Villa</span>
+                        <a href="#"><img src="assets/images/resource/property-6.jpg" alt="4BHK Bungalow Jaipur" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Vaishali Nagar, Jaipur</div>
+                        <h4 class="property-block_one-heading"><a href="#">4BHK Luxury Bungalow</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>4 Bedrooms</li>
+                            <li>Swimming Pool</li>
+                            <li>2 Car Parking</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹95,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 15: Above ₹50 Lakh – Commercial Complex Sikar -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="commercial" data-location="sikar" data-price="7500000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Premium</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#4CAF50;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Commercial Shop</span>
+                        <a href="#"><img src="assets/images/resource/property-8.jpg" alt="Commercial Complex Sikar" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> NH-52 Highway, Sikar</div>
+                        <h4 class="property-block_one-heading"><a href="#">Commercial Complex 1000 sqft</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Highway Facing</li>
+                            <li>3 Floors</li>
+                            <li>Lift Facility</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹75,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PROPERTY 16: Above ₹50 Lakh – Large Agricultural Land Jaipur -->
+            <div class="property-block_one style-three col-lg-4 col-md-6 col-sm-12 prop-item" data-type="land" data-location="jaipur" data-price="12000000">
+                <div class="property-block_one-inner">
+                    <div class="property-block_one-image">
+                        <div class="property-block_one-title">Investment</div>
+                        <span style="position:absolute;top:15px;left:15px;background:#8BC34A;color:#fff;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600;z-index:2;">Agricultural Land</span>
+                        <a href="#"><img src="assets/images/resource/property-9.jpg" alt="Large Land Jaipur" style="width:100%; height:220px; object-fit:cover;"></a>
+                    </div>
+                    <div class="property-block_one-content">
+                        <div class="property-block_one-location"><i class="flaticon-maps-and-flags"></i> Ajmer Road, Jaipur</div>
+                        <h4 class="property-block_one-heading"><a href="#">Agricultural Land 20 Bigha</a></h4>
+                        <ul class="property-block_one-info">
+                            <li>Highway Touch</li>
+                            <li>Borewell</li>
+                            <li>Investment Zone</li>
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center flex-wrap">
+                            <div class="property-block_one-price">₹1,20,00,000</div>
+                            <a class="property-block_one-heart" href="#"><i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- End Properties Grid -->
 
     </div>
 </section>
+
+<script>
+function filterProperties() {
+    var type = document.getElementById('filter-type').value;
+    var location = document.getElementById('filter-location').value;
+    var budget = document.getElementById('filter-budget').value;
+    var items = document.querySelectorAll('.prop-item');
+    var visible = 0;
+    items.forEach(function(item) {
+        var t = item.getAttribute('data-type');
+        var l = item.getAttribute('data-location');
+        var p = parseInt(item.getAttribute('data-price'));
+        var show = true;
+        if (type && t !== type) show = false;
+        if (location && l !== location) show = false;
+        if (budget) {
+            var range = budget.split('-');
+            if (p < parseInt(range[0]) || p > parseInt(range[1])) show = false;
+        }
+        item.style.display = show ? '' : 'none';
+        if (show) visible++;
+    });
+    document.getElementById('no-results').style.display = visible === 0 ? 'block' : 'none';
+}
+function resetFilter() {
+    document.getElementById('filter-type').value = '';
+    document.getElementById('filter-location').value = '';
+    document.getElementById('filter-budget').value = '';
+    filterProperties();
+}
+</script>
 
 	<!-- End Property Three -->
 	
@@ -316,12 +700,12 @@
                             <div class="footer-widget links-widget">
                                 <h5 class="footer-title">Quick Links</h5>
                                 <ul class="footer-list">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">Properties</a></li>
-                                    <li><a href="#">Buy Property</a></li>
-                                    <li><a href="#">Sell Property</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">FAQ</a></li>
+                                    <li><a href="index-2.html">Home</a></li>
+                                    <li><a href="property.html">Properties</a></li>
+                                    <li><a href="buy-property.html">Buy Property</a></li>
+                                    <li><a href="sell-property.html">Sell Property</a></li>
+                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="faq.html">FAQ</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -396,8 +780,8 @@
                 </div>
                 
                 <ul class="footer-bottom_nav">
-                    <li><a href="#">Terms & Condition</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="terms.html">Terms & Conditions</a></li>
+                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
                 </ul>
 
             </div>
