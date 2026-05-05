@@ -1,0 +1,173 @@
+			<div class="banner-two_content">
+				<div class="banner-two_content-inner">
+					<div class="banner-two_title">Nawalgarh Properties</div>
+
+<h1 class="banner-two_heading">
+    Find Your <br> <span>Dream Property</span> in Nawalgarh
+</h1>
+
+<div class="banner-two_text">
+    Buy, Sell & Rent plots, homes and commercial properties with trusted local experts in Nawalgarh.
+</div>
+					<div class="banner-tabs">
+						<!-- Product Tabs -->
+						<div class="prod-tabs tabs-box">
+						
+							<!-- Tab Btns -->
+							<ul class="tab-btns tab-buttons clearfix">
+								<li data-tab="#prod-buy" class="tab-btn active-btn">buy</li>
+								<li data-tab="#prod-rent" class="tab-btn">rent</li>
+								<li data-tab="#prod-sell" class="tab-btn">sell</li>
+							</ul>
+							
+							<!-- Tabs Container -->
+							<div class="tabs-content">
+								
+								<!-- Tab -->
+								<div class="tab active-tab" id="prod-buy">
+									<div class="content">
+										<!-- Default Form -->
+										<div class="default-form">
+											<form method="post" action="#">
+
+    <div class="row clearfix">
+
+        <!-- LOCATION -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Location</label>
+            <select name="location" class="custom-select-box">
+                <option>Nawalgarh</option>
+                <option>Jhunjhunu</option>
+                <option>Sikar</option>
+                <option>Jaipur</option>
+            </select>
+        </div>
+
+        <!-- PROPERTY TYPE -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Property Type</label>
+            <select name="type" class="custom-select-box">
+                <option>Residential Plot</option>
+                <option>House / Villa</option>
+                <option>Shop / Commercial</option>
+                <option>Land</option>
+            </select>
+        </div>
+
+        <!-- BUDGET -->
+        <div class="col-lg-4 col-md-4 col-sm-12 form-group">
+            <label>Budget</label>
+            <select name="price" class="custom-select-box">
+                <option>?5 Lakh - ?10 Lakh</option>
+                <option>?10 Lakh - ?25 Lakh</option>
+                <option>?25 Lakh - ?50 Lakh</option>
+                <option>?50 Lakh+</option>
+            </select>
+        </div>
+
+    </div>
+
+    <!-- BUTTON -->
+    <div class="button-box">
+        <button class="submit-btn">
+            ?? Search Property <i class="flaticon-search-interface-symbol"></i>
+        </button>
+    </div>
+
+</form>
+										</div>
+									</div>
+								</div>
+								
+								<!-- Tab -->
+								<div class="tab" id="prod-rent">
+									<div class="content">
+										<!-- Default Form -->
+										<div class="default-form">
+											<form method="post" action="#">
+
+    <div class="row clearfix">
+
+        <!-- LOCATION -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Location</label>
+            <select name="location" class="custom-select-box">
+                <option>Select Location</option>
+                <option>Nawalgarh</option>
+                <option>Jhunjhunu</option>
+                <option>Sikar</option>
+                <option>Jaipur</option>
+            </select>
+        </div>
+
+        <!-- PROPERTY TYPE -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Property Type</label>
+            <select name="type" class="custom-select-box">
+                <option>Select Type</option>
+                <option>Residential Plot</option>
+                <option>House / Villa</option>
+                <option>Flat</option>
+                <option>Shop / Commercial</option>
+                <option>Agricultural Land</option>
+            </select>
+        </div>
+
+        <!-- PRICE RANGE -->
+        <div class="col-lg-4 col-md-4 col-sm-12 form-group">
+            <label>Budget</label>
+            <select name="price" class="custom-select-box">
+                <option>Select Budget</option>
+                <option>?5 Lakh - ?10 Lakh</option>
+                <option>?10 Lakh - ?25 Lakh</option>
+                <option>?25 Lakh - ?50 Lakh</option>
+                <option>?50 Lakh - ?1 Cr</option>
+                <option>?1 Cr+</option>
+            </select>
+        </div>
+
+    </div>
+
+    <!-- BUTTON -->
+    <div class="button-box">
+        <button class="submit-btn">
+            ?? Search Property <i class="flaticon-search-interface-symbol"></i>
+        </button>
+    </div>
+
+</form>
+										</div>
+									</div>
+								</div>
+								
+								<!-- Tab -->
+								<div class="tab" id="prod-sell">
+									<div class="content">
+										<!-- Default Form -->
+										<div class="default-form">
+											<form method="post" action="contact.html">
+    <div class="row clearfix">
+        
+        <!-- LOCATION -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Location</label>
+            <select name="location" class="custom-select-box">
+                <option>Select Location</option>
+                <option>Nawalgarh</option>
+                <option>Jhunjhunu</option>
+                <option>Sikar</option>
+                <option>Jaipur</option>
+            </select>
+        </div>
+        
+        <!-- PROPERTY TYPE -->
+        <div class="col-lg-4 col-md-4 col-sm-6 form-group">
+            <label>Property Type</label>
+            <select name="type" class="custom-select-box">
+                <option>Select Type</option>
+                <option>Residential Plot</option>
+                <option>House / Villa</option>
+                <option>Flat</option>
+                <option>Shop / Commercial</option>
+                <option>Agricultural Land</option>
+            </select>
