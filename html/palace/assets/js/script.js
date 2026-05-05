@@ -766,12 +766,20 @@
 
 
 	//Header Search
-	if($('.search-box-outer').length) {
-		$('.search-box-outer').on('click', function() {
-			$('body').addClass('search-active');
+	if($('.search-toggle-btn').length) {
+		$('.search-toggle-btn').on('click', function() {
+			$('.inline-search-box').toggleClass('active');
+			if($('.inline-search-box').hasClass('active')){
+				setTimeout(function(){ $('.inline-search-box input').focus(); }, 420);
+			}
 		});
-		$('.close-search').on('click', function() {
-			$('body').removeClass('search-active');
+		$('.search-close-inline').on('click', function() {
+			$('.inline-search-box').removeClass('active');
+		});
+		$(document).on('click', function(e) {
+			if(!$(e.target).closest('.header-inline-search').length){
+				$('.inline-search-box').removeClass('active');
+			}
 		});
 	}
 

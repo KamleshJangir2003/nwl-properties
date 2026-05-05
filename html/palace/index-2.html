@@ -19,6 +19,105 @@
 <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
 <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
+<style>
+.header-inline-search { position: relative; display: inline-flex; align-items: center; }
+
+.search-toggle-btn {
+    cursor: pointer;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background 0.3s;
+}
+.search-toggle-btn:hover { background: rgba(255,107,0,0.12); }
+
+.inline-search-box {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 14px);
+    background: #ffffff;
+    border-radius: 50px;
+    padding: 6px 6px 6px 20px;
+    width: 320px;
+    z-index: 9999;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.13);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    opacity: 0;
+    transform: translateY(-10px) scale(0.97);
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    border: 1.5px solid rgba(255,107,0,0.15);
+}
+
+.inline-search-box.active {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    pointer-events: all;
+}
+
+.inline-search-box::before {
+    content: '';
+    position: absolute;
+    top: -7px;
+    right: 14px;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-left: 1.5px solid rgba(255,107,0,0.15);
+    border-top: 1.5px solid rgba(255,107,0,0.15);
+    transform: rotate(45deg);
+}
+
+.inline-search-box input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 7px 0;
+    font-size: 14px;
+    color: #222;
+    background: transparent;
+    font-family: inherit;
+}
+.inline-search-box input::placeholder { color: #aaa; }
+
+.inline-search-box button {
+    background: #ff6b00;
+    border: none;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    flex-shrink: 0;
+    transition: background 0.2s, transform 0.2s;
+}
+.inline-search-box button:hover { background: #e05a00; transform: scale(1.08); }
+
+.inline-search-box .search-close-inline {
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: #bbb;
+    font-size: 13px;
+    flex-shrink: 0;
+    transition: color 0.2s, background 0.2s;
+}
+.inline-search-box .search-close-inline:hover { color: #ff6b00; background: rgba(255,107,0,0.08); }
+</style>
+
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -90,8 +189,17 @@
 							<!-- Header Options Box -->
 							<div class="header-options_box d-flex align-items-center">
 							
-								<!-- Search Btn -->
-								<div class="search-box-btn search-box-outer"><span class="icon"><img src="assets/images/icons/search-light.svg" alt=""></span></div>
+								<!-- Inline Search Box -->
+								<div class="header-inline-search">
+									<div class="search-toggle-btn search-box-outer"><span class="icon"><img src="assets/images/icons/search-light.svg" alt=""></span></div>
+									<div class="inline-search-box">
+										<form method="get" action="property.html">
+											<input type="search" name="search" placeholder="Search property..." autocomplete="off">
+											<button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+											<span class="search-close-inline"><i class="fa-solid fa-xmark"></i></span>
+										</form>
+									</div>
+								</div>
 								
 								<!-- Nav Btn -->
 								<div class="nav-btn navSidebar-button">
@@ -1439,48 +1547,7 @@
 </footer>
 	<!-- End Main Footer -->
 	
-	<!-- Search Popup -->
-	<div class="search-popup">
-    <div class="color-layer"></div>
 
-    <button class="close-search">
-        <span class="fa-solid fa-xmark"></span>
-    </button>
-
-    <form method="get" action="properties.html">
-
-        <div class="form-group">
-
-            <input type="search" name="search" 
-                   placeholder="Search property (plot, house, rent...)" required>
-
-            <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
-
-        </div>
-
-        <!-- Extra Filters -->
-        <div style="margin-top:15px; display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-
-            <select name="type" style="padding:8px;">
-                <option value="">Property Type</option>
-                <option>Plot</option>
-                <option>House</option>
-                <option>Commercial</option>
-            </select>
-
-            <select name="price" style="padding:8px;">
-                <option value="">Budget</option>
-                <option>Below 10 Lakh</option>
-                <option>10 - 25 Lakh</option>
-                <option>25 - 50 Lakh</option>
-                <option>Above 50 Lakh</option>
-            </select>
-
-        </div>
-
-    </form>
-</div>
-	<!-- End Search Popup -->
 	
 	<!-- Sidebar Cart Item -->
 	<div class="xs-sidebar-group info-group">

@@ -1788,3 +1788,110 @@
 	background-color: var(--main-color);
 	border-color: var(--main-color);
 }
+
+
+/*** 
+====================================================================
+	Inline Header Search
+====================================================================
+***/
+
+.header-inline-search {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.search-toggle-btn {
+	position: relative;
+	display: block;
+	width: 48px;
+	height: 48px;
+	font-size: 18px;
+	cursor: pointer;
+	line-height: 44px;
+	text-align: center;
+	border-radius: 50px;
+	display: inline-block;
+	color: var(--white-color);
+	transition: all 500ms ease;
+	background-color: rgba(var(--white-color-rgb), 0.08);
+	flex-shrink: 0;
+}
+
+.search-toggle-btn:hover {
+	background-color: var(--main-color);
+}
+
+.inline-search-box {
+	position: absolute;
+	right: 58px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 0;
+	overflow: hidden;
+	transition: width 400ms ease;
+	white-space: nowrap;
+}
+
+.inline-search-box.active {
+	width: 280px;
+}
+
+.inline-search-box form {
+	display: flex;
+	align-items: center;
+	background: #fff;
+	border-radius: 50px;
+	padding: 4px 8px 4px 16px;
+	box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.inline-search-box input[type="search"] {
+	border: none;
+	outline: none;
+	background: transparent;
+	font-size: 14px;
+	color: #333;
+	width: 100%;
+	padding: 4px 0;
+}
+
+.inline-search-box input[type="search"]::placeholder {
+	color: #999;
+}
+
+.inline-search-box button[type="submit"] {
+	background: var(--main-color);
+	border: none;
+	color: #fff;
+	width: 32px;
+	height: 32px;
+	border-radius: 50px;
+	cursor: pointer;
+	font-size: 13px;
+	flex-shrink: 0;
+	transition: background 300ms ease;
+}
+
+.inline-search-box button[type="submit"]:hover {
+	background: var(--color-two);
+}
+
+.search-close-inline {
+	cursor: pointer;
+	color: #999;
+	font-size: 14px;
+	padding: 0 6px;
+	flex-shrink: 0;
+	transition: color 300ms ease;
+}
+
+.search-close-inline:hover {
+	color: var(--main-color);
+}
+
+.main-header.fixed-header .search-toggle-btn {
+	background-color: var(--color-three);
+	color: var(--color-two);
+}
